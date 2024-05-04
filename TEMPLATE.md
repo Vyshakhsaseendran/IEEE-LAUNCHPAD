@@ -1,8 +1,8 @@
-# Full Name 
+# Vyshakh M 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>Hello, I'm Vyshakh M, a final year student pursuing B.Tech in Information Technology at the esteemed College of Engineering, Thalassery. With a passion for technology pulsing through my veins, I'm deeply immersed in exploring the ever-evolving digital landscape.  I thrive on the challenges and innovations that define this dynamic field. Eager to leverage my skills and knowledge to make meaningful contributions, I'm poised to embark on a journey where I can blend theory with hands-on experience, shaping the future of technology one line of code at a time.
 
 
 ## Portfolio Highlights
